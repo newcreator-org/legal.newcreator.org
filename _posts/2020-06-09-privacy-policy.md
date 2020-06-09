@@ -4,7 +4,7 @@ title: "プライバシーポリシー"
 description: "皆さまからお預かりする個人情報を保護するためのポリシーです。"
 date:   2020-06-09 00:00:00 -0300
 categories: start blog
-by: 'Gustavo Quinalha'
+by: 'Yoshihisa Kaino'
 icon: 'credit-card'
 
 ---
