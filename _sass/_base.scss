@@ -15,9 +15,10 @@ html {
   font-size: 18px;
   font-weight: 300;
   line-height: 1.6;
+
   @media (min-width: 38em) {
     font-size: 20px;
-}
+  }
 }
 
 body {
@@ -53,6 +54,7 @@ h1 {
 
 h2 {
   font-size: 1.6rem;
+  margin: 2rem 0 1rem 0;
 }
 
 h3 {
@@ -66,7 +68,7 @@ h6 {
 }
 
 p {
-  margin: 0 0 1rem;
+  margin: 0 0 0.5rem;
 }
 
 img {
@@ -85,4 +87,5 @@ img {
 .min-height {
   min-height: calc(100vh - 80px - 200px);
   padding-top: 20px;
+  padding-bottom: 3rem;
 }
